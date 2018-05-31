@@ -1,0 +1,222 @@
+v1.1.1 Beta:
+-Added red sand
+
+v1.1.0 Beta:
+-Added iron trapdoor texture
+-Added sunflower texture
+-Added large fern texture
+-Added red tulip texture
+-Added orange tulip texture
+-Added pink tulip texture
+-Added white tulip texture
+-Added allium texture
+-Added azure bluet texture
+-Added oxeye daisy texture
+-Added blue orchid texture
+-Added lilac texture
+-Added rose bush texture
+-Added peony texture
+-Added wet sponege texture (14w25a)
+-Added coarse dirt
+-Added new cursor textur
+-Added bow texture (x16)
+-Added diamond texture (x16)
+-Added new icon
+-Improved iron door texture
+-improved brick texture
+-Fixed cursor bug
+-Fixed minor xp bar texture bug
+-Fixed baked potato texture
+-Fixed potato texture
+
+v1.0.2 Beta:
+-Added beacon texture
+-Added beacon beam texture
+-Added hopper GUI texture
+-Added horse GUI texture
+-Added resource pack arrows
+
+v1.0.1 Beta:
+-Added blaze texture
+-Added saddle texture
+-Added entchantment table book texture
+-Added bat texture
+-Added squid texture
+
+v1.0.0 Beta:
+-Added acacia planks texture
+-Added dark oak planks texture
+-Added podzol texture
+-Added Furnace texture
+-Added all wool colours
+-Added all carpet colours
+-Added all stained glass textures
+-Added all stained glass pane textures
+-Added spawner texture
+-Added TNT texture
+-Added torch texture
+-Added trapdoor texture
+-Added daylight sensor texture
+-Added farmland texture
+-Added command block texture
+-Added brick texture
+-Added redstone dust texture (block)
+-Added redstone lamp texture
+-Added dropper texture
+-Added dispenser texture
+-Added stonebricks texture
+-Added cracked stonebricks texture
+-Added chiseled stonebricks texture
+-Added mossy stonebricks texture
+-Added lillypad texture
+-Added repeater texture
+-Added redstone torch texture
+-Added lever texture
+-Added mossy cobblestone texture
+-Added tall grass texture
+-Added comparator texture
+-Added tripwire hook texture
+-Added brown mushroom texture
+-Added red mushroom texture
+-Added oak log texture
+-Added birch log texture
+-Added spruce log texture
+-Added jungle log texture
+-Added dark oak log texture
+-Added acacia log texture
+-Added oak leaves texture
+-Added birch leaves texture
+-Added spruce leaves texture
+-Added jungle leaves texture
+-Added dark oak leaves texture
+-Added acacia leaves texture
+-Added destroying animation
+-Added brewing stand texture
+-Added workbench texture
+-Added soulsand texture
+-Added netherrack texture
+-Added piston texture
+-Added sticky piston texture
+-Added noteblock texture
+-Added jukebox texture
+-Added mycelium texture
+-Added flower pot texture
+-Added fern texture
+-Added double tallgrass texture
+-Added sugar cane texture
+-Added clay texture
+-Added netherbricks texture
+-Added netherbrick fence texture
+-Added quartz ore texture
+-Added glowstone texture
+-Added anvil texture
+-Added cactus texture
+-Added melon texture
+-Added iron block texture
+-Added coal block texture
+-Added lapis block texture
+-Added gold block texture
+-Added diamond block texture
+-Added emerald block texture
+-Added redstone block texture
+-Added itemframe texture
+-Added deadbush texture
+-Added dragon egg texture
+-Added chest texture
+-Added ender chest texture
+-Added arrow texture (entity)
+-Added boat texture
+-Added sign texture
+-Added xp orb texture
+-Added endportal frame texture
+-Added stone slab texture
+-Added vine texture
+-Added sponge texture
+-Added snow block/top texture
+-Added pumpink texture
+-Added jack o'lantern texture
+-Added melon stem texture
+-Added pumpkin stem texture
+-Added cauldron texture
+-Added ladder texture
+-Added bed texture
+-Added cake texture
+-Added cocoa beans texture
+-Added wooden door texture
+-Added iron door texture
+-Added emerald ore texture
+-Added iron bars texture
+-Added lapis ore texture
+-Added hay bale texture
+-Added all stained clay textures
+-Added cobweb texture
+-Added powered rail texture
+-Added detector rail texture
+-Added activator rail texture
+-Added rail texture
+-Added oak sapling texture
+-Added spruce sapling texture
+-Added birch sapling texture
+-Added acacia sapling texture
+-Added dark oak sapling texture
+-Added jungle sapling texture
+-Added poppy texture
+-Added dandelion texture
+-Added nether warts texture
+-Added mushroom blocks texture
+-Added ice texture
+-Added packed ice texture
+-Added wheat texture
+-Added quartz block texture
+-Added chiseled quartz block texture
+-Added pillar quartz block texture
+-Added quartz stair texture
+-Added quartz slab texture
+-Added sandstone texture
+-Added smooth sandstone texture
+-Added chiseled sandstone texture
+-Added endercrystal texture
+-Added map texture
+-Added difficulty lock texture in settings GUI (14w02c)
+-Added slime block texture (14w02c)
+-Added granite texture (14w02c)
+-Added polished granite texture (14w02c)
+-Added diorite texture (14w02c)
+-Added polished diorite texture (14w02c)
+-Added andesite texture (14w02c)
+-Added polished andesite texture (14w02c)
+-Improved iron ore texture
+-Improved snow on grass texture
+-Fixed font bug
+-Updated/Improved resource pack order
+-Updated resource pack icon
+-Updated texture pack to resource pack, so it's now cmpatible with Minecraft 1.7.X
+-Updated the background of the menu
+-Updated the GUI (currently just with 16x pixels)
+-Updated entchantment GUI (14w02c)
+
+v1.1.0 Alpha:
+-Added obsidian texture
+-Added gravel texture
+-Added snow texture
+-Added enchantment table texture
+-Added bookshelf texture
+-Added wooden planks texture (jungle, birch, spruce, oak)
+-Added wooden halfsteps texture(jungle, birch, spruce, oak)
+-Added wooden stairs texture (jungle, birch, spruce, oak)
+-Added wooden pressure plates texture
+-Added fence texture
+-Added gate texture 
+
+v1.0.0 Alpha:
+-Added stone texture
+-Added cobblestone texture
+-Added bedrock texture
+-Added sand texture
+-Added dirt texture
+-Added grass texture
+-Added iron ore texture
+-Added coal ore texture
+-Added gold ore texture
+-Added diamond ore texture
+-Added redstone ore texture

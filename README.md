@@ -1,0 +1,1 @@
+# SmoothTex-32x
